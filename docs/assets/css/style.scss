@@ -1,0 +1,51 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+
+header {
+    border-bottom: none;
+    padding: 20px 0 0 0;
+    margin: 0 0 0 0;
+
+}
+
+header a {
+    text-decoration: none !important;
+}
+
+header h1 {
+    margin: 0 0 0 10px;
+    font-weight: normal;
+}
+
+header h1:before {
+    content: "";
+}
+
+* {
+    font-family: Hack, "DejaVu Sans Mono", "Monaco", "Source Code Pro";
+}
+h1, h2 {
+//     color: #A8C023
+    color: #7EAEF1 !important
+//     color: #FFFF00
+}
+h3, h4, h5, h6 {
+//     color: #A8C023
+//    color: #7EAEF1 !important
+//     color: #FFFF00
+    color: white;
+}
+
+footer {
+    border-top: 1px solid #7EAEF1;
+    padding: 16px 0 16px 0;
+    margin: 0 0 4px 0;
+}
+footer a {
+    margin: 0 0 0 0;
+    text-decoration: none !important;
+}

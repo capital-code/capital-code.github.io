@@ -1,0 +1,18 @@
+title: Capital Code - Transforming Software Engineering
+email: info@capcode.io
+description: >-
+  Capital Code is a company created by software engineering professionals
+  that invests in and builds capital software -- development tools,
+  frameworks and methodologies.
+
+url: "http://capcode.io" # TODO: Change to httpS
+github_username: capital-code
+
+markdown: kramdown
+
+theme: jekyll-theme-hacker
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+

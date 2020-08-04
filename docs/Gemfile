@@ -1,0 +1,11 @@
+source "https://rubygems.org"
+
+# gem 'github-pages', '~> 206', group: :jekyll_plugins
+
+gem 'jekyll', '~> 3.8.7'
+
+gem "jekyll-theme-hacker"
+
+group :jekyll_plugins do
+  gem 'jekyll-feed'
+end

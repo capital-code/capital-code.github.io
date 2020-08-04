@@ -1,2 +1,2 @@
-# capotal-code.github.io
+# capital-code.github.io
 Capital Code Corporate Website

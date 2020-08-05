@@ -12,6 +12,8 @@ markdown: kramdown
 
 theme: jekyll-theme-hacker
 
+google_analytics: "UA-174548013-1"
+
 exclude:
   - Gemfile
   - Gemfile.lock

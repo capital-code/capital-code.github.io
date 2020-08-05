@@ -17,7 +17,7 @@ header a {
 }
 
 header h1 {
-    margin: 0 0 0 10px;
+    margin: 0 0 0 0;
     font-weight: normal;
 }
 
@@ -38,6 +38,18 @@ h3, h4, h5, h6 {
 //    color: #7EAEF1 !important
 //     color: #FFFF00
     color: white;
+}
+
+body .comment {
+    color: #FFFF00;
+}
+
+body .headline {
+    color: #90a959;
+}
+
+body .code {
+    color: #7EAEF1;
 }
 
 footer {

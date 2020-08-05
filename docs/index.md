@@ -1,5 +1,7 @@
 ---
 layout: default
+header-img: "img/capital_code_website_sharing_image.png"
+
 ---
 
 

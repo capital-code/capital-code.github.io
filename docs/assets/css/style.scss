@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap');
 
 
 header {
@@ -23,7 +23,10 @@ header h1 {
 
 header h1:before {
     content: "<$> ";
-    margin: 0 0 0 -55px;
+    margin: 0 0 0 -70px;
+    font-family: "Source Code Pro";
+    font-weight: bold;
+    font-size: 100%;
 }
 
 * {

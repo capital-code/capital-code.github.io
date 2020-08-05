@@ -1,6 +1,6 @@
 ---
 layout: default
-header-img: "images/capital_code_website_sharing_image.png"
+header-img: "assets/images/capital_code_website_sharing_image.png"
 
 ---
 

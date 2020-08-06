@@ -46,5 +46,6 @@ header-img: "assets/images/capital_code_website_sharing_image.png"
 
 <span class="comment"># (C) 2020 Capital Code  
 <span class="comment"># info@capcode.io  
-<span class="comment"># telegram.me/vgrigoryevskiy
+<span class="comment"># telegram.me/vgrigoryevskiy  
+<span class="comment"># medium.com/@v.grigoryevskiy
 </span>  

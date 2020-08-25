@@ -21,7 +21,7 @@ header-img: "assets/images/capital_code_website_sharing_image.png"
 <span class="headline">Investment Focus</span>  
 <span class="code">- Development Tools  
 <span class="code">- B2D SaaS  
-<span class="code">- Modeling and Prototyping  
+<span class="code">- Modelling and Prototyping  
 <span class="code">- Designing and Documenting  
 <span class="code">- IDEs  
 <span class="code">- Frameworks  

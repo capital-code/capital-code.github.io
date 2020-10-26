@@ -36,11 +36,8 @@ header-img: "assets/images/capital_code_website_sharing_image.png"
 <span class="code">- Seed  
 </span>
 
-<span class="headline">Ley Locations</span>  
+<span class="headline">Key Locations</span>  
 <span class="code">- London  
-<span class="code">- Silicon Valley  
-<span class="code">- Kyiv  
-<span class="code">- Saint Petersburg  
 </span>
 <br>
 

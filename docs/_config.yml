@@ -5,7 +5,7 @@ description: >-
   that invests in and builds capital software -- development tools,
   frameworks and methodologies.
 
-url: "http://capcode.io" # TODO: Change to httpS
+url: "https://capcode.io"
 github_username: capital-code
 
 markdown: kramdown

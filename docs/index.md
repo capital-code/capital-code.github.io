@@ -20,13 +20,16 @@ header-img: "assets/images/capital_code_website_sharing_image.png"
 
 <span class="headline">Investment Focus</span>  
 <span class="code">- Development Tools  
-<span class="code">- B2D SaaS  
+<span class="code">- Business-to-Developer SaaS  
 <span class="code">- Modelling and Prototyping  
 <span class="code">- Designing and Documenting  
-<span class="code">- IDEs  
-<span class="code">- Frameworks  
-<span class="code">- Testing  
-<span class="code">- Build and Release Automation  
+<span class="code">- Integrated Development Environments (IDEs)  
+<span class="code">- Development and Delivery Frameworks  
+<span class="code">- API Management  
+<span class="code">- Testing, Test Automation  
+<span class="code">- Software Security  
+<span class="code">- Build and Release Automation, DevOps Tools  
+<span class="code">- Logging and Monitoring  
 <span class="code">- Project and Delivery Management  
 <span class="code">- Software Engineering Measurement and Analytics  
 </span>
@@ -43,6 +46,6 @@ header-img: "assets/images/capital_code_website_sharing_image.png"
 
 <span class="comment"># (C) 2020 Capital Code  
 <span class="comment"># info@capcode.io  
-<span class="comment"># telegram.me/vgrigoryevskiy  
-<span class="comment"># medium.com/@v.grigoryevskiy
+<span class="comment"># [telegram.me/vgrigoryevsky](https://telegram.me/vgrigoryevsky)  
+<span class="comment"># [medium.com/@v.grigoryevskiy](https://medium.com/@v.grigoryevskiy)
 </span>  

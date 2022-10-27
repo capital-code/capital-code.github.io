@@ -15,7 +15,7 @@ header-img: "assets/images/capital_code_website_sharing_image.png"
 <span class="headline">Our Single Success Criteria</span>  
 <span class="code">- Business Value Delivery</span>
 
-<span class="headline">Investment per Company</span>  
+<span class="headline">Investment per Startup</span>  
 <span class="code">- $20-200K
 
 <span class="headline">Investment Focus</span>  
@@ -45,7 +45,7 @@ header-img: "assets/images/capital_code_website_sharing_image.png"
 <br>
 
 <span class="comment"># (C) 2020 Capital Code  
-<span class="comment"># info@capcode.io  
+<span class="comment"># [info@capcode.io](mailto:info@capcode.io)  
 <span class="comment"># [telegram.me/vgrigoryevsky](https://telegram.me/vgrigoryevsky)  
 <span class="comment"># [medium.com/@v.grigoryevskiy](https://medium.com/@v.grigoryevskiy)
 </span>  

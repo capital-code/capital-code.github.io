@@ -49,19 +49,24 @@ body .comment {
 }
 
 body .headline {
-    color: #90a959;
+  color: #90a959;
 }
 
 body .code {
-    color: #7EAEF1;
+  color: #7EAEF1;
+}
+
+a {
+  color: #FFFF00;
 }
 
 footer {
-    border-top: 1px solid #7EAEF1;
-    padding: 16px 0 16px 0;
-    margin: 0 0 4px 0;
+  border-top: 1px solid #7EAEF1;
+  padding: 16px 0 16px 0;
+  margin: 0 0 4px 0;
 }
+
 footer a {
-    margin: 0 0 0 0;
-    text-decoration: none !important;
+  margin: 0 0 0 0;
+  text-decoration: none !important;
 }
